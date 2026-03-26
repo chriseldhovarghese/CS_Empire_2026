@@ -49,43 +49,106 @@
 
 ```text
 C:\Users\chris\RESEARCH\Undergraduate_Decision_Framework
-├── Organised_Research_Findings
-│   ├── 01_Global_Synthesis
-│   │   └── 00_Global_Strategic_Synthesis.md
-│   ├── 02_Macro_Filters
-│   │   └── 01_Global_Macro_Filters.md
-│   ├── 03_Exam_Assessment
-│   │   └── 02_Global_Exam_Relevance.md
-│   ├── 04_Timelines_Scholarships
-│   │   ├── 03_Global_Master_Timelines.md
-│   │   └── 04_Global_Scholarship_Arsenal.md
-│   └── 05_Institutional_Database
-│       ├── Australia
-│       ├── Canada
-│       ├── Europe
-│       ├── Hong_Kong
-│       ├── Israel
-│       ├── Japan
-│       ├── Singapore
-│       ├── South_Korea
-│       ├── UK
-│       └── USA
-├── Project_Logs
-│   ├── 00_Major_Directives
-│   │   ├── 00_Master_Directives.md
-│   │   └── operation_cs_empire_directive.md
-│   └── Research_History.md (This File)
-├── research_docs
-│   ├── deep-research-report.md
-│   ├── Elite_CS_Admissions_Research.md
-│   ├── global-ai-robotics-programs.md
-│   ├── query 1.md
-│   ├── query_2.md
-│   ├── Strategic_Evaluation_CS_Programs.md
-│   ├── timeline updater fall 2026.md
-│   ├── timeline updater fall 2027.md
-│   └── University_Tech_Program_Deep_Dive.md
-└── .gitignore
+|   .gitignore
+|   00_Complete_Overview.md
+|   01_Research_History.md
+|
++---Organised_Research_Findings
+|   +---01_Macro_Filters
+|   |       01_Global_Macro_Filters.md
+|   |
+|   +---02_Exam_Relevances
+|   |       02_Global_Exam_Relevance.md
+|   |
+|   +---03_Timelines_Scholarships
+|   |       03_Global_Master_Timelines.md
+|   |       04_Global_Scholarship_Arsenal.md
+|   |
+|   \---04_Countries
+|       +---Australia
+|       |       ANU.md
+|       |       Australia_Overview.md
+|       |       Monash.md
+|       |       Univ_of_Melbourne.md
+|       |       Univ_of_Sydney.md
+|       |       UNSW_Sydney.md
+|       |       UQ.md
+|       |       UTS.md
+|       |
+|       +---Canada
+|       |       Canada_Overview.md
+|       |       McGill.md
+|       |       SFU.md
+|       |       UAlberta.md
+|       |       UBC.md
+|       |       Univ_of_Toronto.md
+|       |       Univ_of_Waterloo.md
+|       |
+|       +---Europe
+|       |       Aalto.md
+|       |       EPFL.md
+|       |       ETH_Zurich.md
+|       |       Europe_Overview.md
+|       |       KTH.md
+|       |       RWTH_Aachen.md
+|       |       TU_Delft.md
+|       |
+|       +---Hong_Kong
+|       |       HKUST.md
+|       |
+|       +---Israel
+|       |       Technion.md
+|       |
+|       +---Japan
+|       |       Nagoya.md
+|       |
+|       +---Singapore
+|       |       NTU.md
+|       |       NUS.md
+|       |       Singapore_Overview.md
+|       |       SIT.md
+|       |       SMU.md
+|       |       SUTD.md
+|       |
+|       +---South_Korea
+|       |       KAIST.md
+|       |
+|       +---UK
+|       |       Bristol.md
+|       |       Cambridge.md
+|       |       Edinburgh.md
+|       |       Imperial.md
+|       |       Manchester.md
+|       |       Oxford.md
+|       |       UCL.md
+|       |       UK_Overview.md
+|       |
+|       \---USA
+|               CMU.md
+|               Georgia_Tech.md
+|               MIT.md
+|               Stanford.md
+|               UC_Berkeley.md
+|               Univ_of_Washington.md
+|               USA_Overview.md
+|               USU.md
+|
+\---Project_Logs
+    +---00_Major_Directives
+    |       00_Master_Directives.md
+    |       operation_cs_empire_directive.md
+    |
+    \---research_docs
+            deep-research-report.md
+            Elite_CS_Admissions_Research.md
+            global-ai-robotics-programs.md
+            query 1.md
+            query_2.md
+            SAT Global Weight_ _What is the realistic timeline.md
+            Strategic_Evaluation_CS_Programs.md
+            timeline updater fall 2026.md
+            timeline updater fall 2027.md
+            University_Tech_Program_Deep_Dive.md
 ```
 
 ## 🌟 Strategic Journey & Synthesis: The Empire's Foundation
