@@ -1,0 +1,9 @@
+.gemini/
+.idea/
+.vscode/
+node_modules/
+*.log
+temp/
+tmp/
+.DS_Store
+Thumbs.db
